@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '46788'
     url: http://www.gutenberg.org/2009/agents/46788
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44761#The-Way-to-Abolish-Slavery
 gutenberg_issued: '2014-01-26'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,25 @@
+_repo: The-Way-to-Abolish-Slavery_44761
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44761-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stearns, Charles (Abolitionist)
+    gutenberg_agent_id: '46788'
+    url: http://www.gutenberg.org/2009/agents/46788
+description: ''
+gutenberg_issued: '2014-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44761'
+  lccn: '11012754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Slavery -- United States'
+title: The Way to Abolish Slavery
+url: http://www.gutenberg.org/ebooks/44761
